@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+I am ready to learn
+
+I am going to become a master programmer
